@@ -25,6 +25,7 @@ yarn-error.log*
 
 
 App.test.js
+index.js
 index.css
 logo.svg
 serviceWorker.js
@@ -33,3 +34,4 @@ package-lock.json
 package.json
 README.md
 public
+.env
